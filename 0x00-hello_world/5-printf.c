@@ -1,6 +1,8 @@
 #include <stdio.h>
-/*
- * kdasdlsajdlk
+/**
+ * main - print
+ *
+ * Return: 0
 */
 
 int main(void)
