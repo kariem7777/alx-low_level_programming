@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints all the numbers of base 16 
+ * main - Prints all the numbers of base 16
  *
  * Return: 0
  */
